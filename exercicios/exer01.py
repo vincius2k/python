@@ -9,3 +9,7 @@ aprovado = True
 reprovado = False
 horas_trabalhadas = 8
 nota1 = 75
+
+
+# Adicionando uma nova idade à lista pessoa
+pessoa.append(30)
