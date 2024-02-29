@@ -13,3 +13,9 @@ nota1 = 75
 
 # Adicionando uma nova idade à lista pessoa
 pessoa.append(30)
+
+# Removendo o elemento que representa a altura da lista pessoa
+pessoa.remove(1.87)
+
+# Imprimindo os elementos da lista pessoa em ordem reversa
+print(pessoa[::-1])
